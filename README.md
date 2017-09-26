@@ -12,7 +12,7 @@ Nevertheless, finding the right app (one that is convenient, functional, free) c
 Our goal is to create a free, cross-platform, mobile-friendly dice-rolling web-app for the frequent-forgetters and the digital-minded roll-playing gamers.
 
 ## Visit
-Try it out [here](ForgottenDice.github.io "Forgotten Dice - Calulator").
+Try it out [here](https://ForgottenDice.github.io).
 
 ## Walkthrough
 ### Mobile vs Desktop
