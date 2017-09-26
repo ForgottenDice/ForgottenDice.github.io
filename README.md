@@ -15,6 +15,7 @@ Our goal is to create a free, cross-platform, mobile-friendly dice-rolling web-a
 Try it out [here](ForgottenDice.github.io "Forgotten Dice - Calulator").
 
 ## Walkthrough
+### Mobile vs Desktop
 When you arrive, you will see something different if you are using mobile vs desktop.
 
 On mobile, you'll see something resembling a modified calculator:
