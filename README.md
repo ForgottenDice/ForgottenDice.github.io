@@ -14,4 +14,11 @@ Our goal is to create a free, cross-platform, mobile-friendly dice-rolling web-a
 ## Visit
 Try it out [here](ForgottenDice.github.io "Forgotten Dice - Calulator").
 
+## Walkthrough
+When you arrive, you will see something different if you are using mobile vs desktop.
 
+On mobile, you'll see something resembling a modified calculator:
+![alt text](https://github.com/ForgottenDice/ForgottenDice.github.io/blob/master/reference-images/screen1-mbl.gif)
+
+On desktop, you'll see all the same buttons, but with a slightly different layout. The keypad is to the right, and the display is to the left; the clear (x), roll, and saved-menu buttons are still along the bottom:
+![alt text](https://github.com/ForgottenDice/ForgottenDice.github.io/blob/master/reference-images/screen1-dsk.gif)
