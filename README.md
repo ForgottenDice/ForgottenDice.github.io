@@ -37,6 +37,7 @@ Forgotten Dice uses the same notation as most dice-based roll playing games:
 > In most role-playing games, die rolls required by the system are given in the form __*AdX*__. *A* and *X* are variables, separated by the letter "d", which stands for die or dice. *...*
 > 
 > *A* is the number of dice to be rolled (usually omitted if 1).
+>
 > *X* is the number of faces of each die.
 > 
 > *...*
