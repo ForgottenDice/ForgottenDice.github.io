@@ -25,3 +25,26 @@ On mobile, you'll see something resembling a modified calculator:
 On desktop, you'll see all the same buttons, but with a slightly different layout. The keypad is to the right, and the display is to the left; the clear (x), roll, and saved-menu buttons are still along the bottom:
 
 ![alt text](https://github.com/ForgottenDice/ForgottenDice.github.io/blob/master/reference-images/screen1-dsk.gif)
+
+__*NOTE: Since the only differences are in layout, we will only use the mobile version for this walkthrough.*__
+
+### Getting Started
+
+#### Notation:
+
+Forgotten Dice uses the same notation as most dice-based roll playing games:
+
+> In most role-playing games, die rolls required by the system are given in the form __*AdX*__. *A* and *X* are variables, separated by the letter "d", which stands for die or dice. *...*
+> 
+> *A* is the number of dice to be rolled (usually omitted if 1).
+> *X* is the number of faces of each die.
+> 
+> *...*
+>
+> For example, if a game would call for a roll of `d4` or `1d4` this would mean, "roll one 4-sided die."
+> 
+> `3d6` would mean, "roll three six-sided dice." *...*
+>
+>To this basic notation, an additive modifier can be appended, yielding expressions of the form, __*AdX+B*__. The plus is sometimes replaced by a minus sign ("−") to indicate subtraction. *B* is a number to be added to the sum of the rolls. So, `1d20-10` would indicate a roll of a single 20-sided die with 10 being subtracted from the result. These expressions can also be chained (e.g. `2d6+1d8`), though this usage is less common.
+
+(From: *[Wikipedia](https://en.wikipedia.org/wiki/Dice_notation)*).
