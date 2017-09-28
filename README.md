@@ -36,8 +36,7 @@ Forgotten Dice uses the same notation as most dice-based roll playing games:
 
 > In most role-playing games, die rolls required by the system are given in the form __*AdX*__. *A* and *X* are variables, separated by the letter "d", which stands for die or dice. *...*
 > 
-> *A* is the number of dice to be rolled (usually omitted if 1).
->
+> *A* is the number of dice to be rolled (usually omitted if 1).  
 > *X* is the number of faces of each die.
 > 
 > *...*
@@ -49,3 +48,9 @@ Forgotten Dice uses the same notation as most dice-based roll playing games:
 >To this basic notation, an additive modifier can be appended, yielding expressions of the form, __*AdX+B*__. The plus is sometimes replaced by a minus sign ("−") to indicate subtraction. *B* is a number to be added to the sum of the rolls. So, `1d20-10` would indicate a roll of a single 20-sided die with 10 being subtracted from the result. These expressions can also be chained (e.g. `2d6+1d8`), though this usage is less common.
 
 (From: *[Wikipedia](https://en.wikipedia.org/wiki/Dice_notation)*).
+
+#### Rolling Dice:
+
+1. Make sure that the calculator is cleared.  
+  * You can do this by pressing the clear (X) button in the lower left corner of the calculator several times, until the screen appears blank
+  ![alt text](clearbuttonimage)
